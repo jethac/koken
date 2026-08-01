@@ -7,8 +7,10 @@ attends the principal actor directly — hands them what they need mid-scene, an
 their lines. That is this repo's job: a fast conversational model does the performing,
 and kōken feeds it what it doesn't know.
 
-> **Status:** design + scaffold. See [DESIGN.md](DESIGN.md) for the full architecture.
-> Nothing here is built yet; [kuroko](https://github.com/jethac/kuroko) works today.
+> **Status:** design only — there is no code here yet.
+> [DESIGN.md](DESIGN.md) is the architecture; [AGENTS.md](AGENTS.md) is the build guide,
+> including measured ground truth, acceptance criteria per step, and the traps that
+> already cost time. [kuroko](https://github.com/jethac/kuroko) works today.
 
 ## The problem
 
