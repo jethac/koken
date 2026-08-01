@@ -4,3 +4,6 @@ __pycache__/
 koken.json
 *.egg-info/
 audio/
+
+# environment specifics stay out of a public repo
+ENVIRONMENT.local.md
