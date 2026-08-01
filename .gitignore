@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+koken.json
+*.egg-info/
+audio/
